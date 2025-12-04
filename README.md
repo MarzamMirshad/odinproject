@@ -12,11 +12,6 @@ The goal of this project is to practice basic HTML structure by building a simpl
 - How to publish a website using GitHub Pages  
 
 
-##  Live Demo
-(If published on GitHub Pages, add your link here)
-
-👉 **https://marzammirshad.github.io/odinproject**
-
 ##  About the Website
 The website contains:
 - A main page (`index.html`) with links to three recipes  
